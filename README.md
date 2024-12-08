@@ -45,15 +45,15 @@ Let's connect and collaborate—whether you're into coding, finance, or just gee
 
 ---
 
-### ✨ Fun Animations  
+### ✨ Some Fun Animations  
 ![Coding Gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611hkqqhzl5cwmsfr63bd4ixu9cuo5zwkrkakomabqi&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
 ![Math GIF](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif?cid=790b7611a8y0vt6kke4midnypylyidukt6z7fx01o5grvrw9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 ### 🏆 Highlights
-- **Favorite Formula 1 Fan Moment**:
+- **Funny Formula 1 Moment**:
  ![F1 Fan Moment](https://media.giphy.com/media/TgHQOqCqf9GH6/giphy.gif?cid=790b7611oatogs5x7to4981ll7ivt46lihwri3k89mv98ec9&ep=v1_gifs_search&rid=giphy.gif&ct=g)   
-- **Tech I Love**: Java, Python, MATLAB, R, and even a dash of C++.  
+- **Tech I Love to code in**: Java, Python, C++.  
 - **Favorite Math Concept**: Game Theory & Cryptography. 🔐  
 
 ---
