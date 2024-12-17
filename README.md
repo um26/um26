@@ -12,9 +12,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=um26&show_icons=true&theme=radical&hide=issues)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=um26&layout=compact&theme=radical)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=um26&bg_color=0D1117&color=FFFFFF&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)  
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=um26&theme=radical)  
+![GitHub Streak Stats](https://github-readme-streak-stats.vercel.app?user=um26&theme=radical)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=um26&theme=radical)  
 ![Visitor Count](https://komarev.com/ghpvc/?username=um26&color=brightgreen)
+
 
 
 ### ⚙️ My Tech Toolbox  
