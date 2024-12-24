@@ -15,6 +15,14 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=um26&theme=dark)](https://git.io/streak-stats)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=um26&theme=radical)  
 ![Visitor Count](https://komarev.com/ghpvc/?username=um26&color=brightgreen)
+---
+
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)  
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-brightgreen)  
+![Java](https://img.shields.io/badge/Java-Expert-blue)  
+![Python](https://img.shields.io/badge/Python-Enthusiast-ff69b4)  
+![GitHub](https://img.shields.io/badge/GitHub-Master-lightgrey)  
+![Finance Geek](https://img.shields.io/badge/Finance-Geek-yellow)  
 
 
 
