@@ -1,4 +1,13 @@
-# Hi, I'm Utkarsh 👋 | Aspiring Quant | Math Enthusiast | Java Dev 🚀
+ <h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" alt="Hi"> Hi, I'm Utkarsh!
+
+Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&width=500&height=50&lines=Aspiring+Quant+%7C+Java+Dev+%7C+Math+Enthusiast" alt="Typing SVG" />
+</p>
+
+
 
 ### 🧮 About Me
 
@@ -10,12 +19,18 @@
 ---
 ### 🌟 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=um26&show_icons=true&theme=radical&hide=issues)  
+-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=um26&layout=compact&langs_count=8&theme=radical)
+-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=um26&bg_color=0D1117&color=FFFFFF&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)  
+-
 [![GitHub Streak](https://streak-stats.demolab.com?user=um26&theme=dark)](https://git.io/streak-stats)
+-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=um26&theme=radical)  
+-
 ![Visitor Count](https://komarev.com/ghpvc/?username=um26&color=brightgreen)
 ---
+
 
 
 ### ⚙️ My Tech Toolbox  
