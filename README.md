@@ -11,7 +11,6 @@ Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
 
 
 ### 🧮 About Me
-
 - 🎓 **President of the University Math Club**  
 - 📈 Passionate about **Finance** & aspire to work in **Quantitative Finance**.  
 - 🖥️ Currently diving deep into **Java** and **Data Structures & Algorithms**.  
@@ -31,8 +30,6 @@ Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
 -
 ![Visitor Count](https://komarev.com/ghpvc/?username=um26&color=brightgreen)
 ---
-
-
 
 ### ⚙️ My Tech Toolbox  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
@@ -70,9 +67,15 @@ Let's connect and collaborate—whether you're into coding, finance, or just gee
 
 ### 🏆 Highlights
 - **Funny Formula 1 Moment**:
- ![F1 Fan Moment](https://media.giphy.com/media/TgHQOqCqf9GH6/giphy.gif?cid=790b7611oatogs5x7to4981ll7ivt46lihwri3k89mv98ec9&ep=v1_gifs_search&rid=giphy.gif&ct=g)   
+ ![F1 Fan Moment](https://media.giphy.com/media/TgHQOqCqf9GH6/giphy.gif?cid=790b7611oatogs5x7to4981ll7ivt46lihwri3k89mv98ec9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 - **Tech I Love to code in**: Java, Python, C++.  
 - **Favorite Math Concept**: Game Theory & Cryptography. 🔐  
+---
+
+### 🧠 Did You Know?  
+- Java was initially called Oak.  
+- The term "Algorithm" comes from the name of a Persian mathematician, Al-Khwarizmi.  
+- A chessboard has 64 squares, but there are over 318 billion possible positions after four moves!
 
 ---
 
