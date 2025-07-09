@@ -68,7 +68,7 @@ Let's connect and collaborate—whether you're into coding, finance, or just gee
 ### 🏆 Highlights
 - **Funny Formula 1 Moment**:
  ![F1 Fan Moment](https://media.giphy.com/media/TgHQOqCqf9GH6/giphy.gif?cid=790b7611oatogs5x7to4981ll7ivt46lihwri3k89mv98ec9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-- **Tech I Love to code in**: Java, Python, C++.  
+- **Tech I Love to code in**: Java and Python.  
 - **Favorite Math Concept**: Game Theory & Cryptography. 🔐  
 ---
 
