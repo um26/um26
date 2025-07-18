@@ -10,8 +10,7 @@ Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
 
 
 
-### 🧮 About Me
-- 🎓 **President of the University Math Club**  
+### 🧮 About Me 
 - 📈 Passionate about **Finance** & aspire to work in **Quantitative Finance**.  
 - 🖥️ Currently diving deep into **Java** and **Data Structures & Algorithms**.  
 - 🎮 Love solving puzzles, optimizing algorithms, and building cool projects like **Chess Engines**.  
