@@ -21,7 +21,7 @@ Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
 -
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=um26&layout=compact&langs_count=8&theme=radical)
 -
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=um26&bg_color=0D1117&color=FFFFFF&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)  
+<!--![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=um26&bg_color=0D1117&color=FFFFFF&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)  -->
 -
 [![GitHub Streak](https://streak-stats.demolab.com?user=um26&theme=dark)](https://git.io/streak-stats)
 -
