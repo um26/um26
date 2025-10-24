@@ -23,6 +23,7 @@ Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/um26/um26/output/github-contribution-grid-snake.svg" />
 </picture>
 
+
 ---
 ### 🌟 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=um26&show_icons=true&theme=radical&hide=issues)  
