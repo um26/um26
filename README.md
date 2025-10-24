@@ -17,11 +17,12 @@ Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
 
 ---
 
-<picture>
+[<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/um26/um26/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/um26/um26/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/um26/um26/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture>](https://raw.githubusercontent.com/um26/um26/output/github-contribution-grid-snake.svg
+)
 
 
 ---
