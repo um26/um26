@@ -70,7 +70,7 @@ Let's connect and collaborate—whether you're into coding, finance, or just gee
 ---
 
 ### ✨ Some Fun Animations  
-![Coding Gif](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif)
+![Coding Gif](https://media.giphy.com/media/TgHQOqCqf9GH6/giphy.gif)
 ![Math GIF](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif?cid=790b7611a8y0vt6kke4midnypylyidukt6z7fx01o5grvrw9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
