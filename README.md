@@ -8,7 +8,9 @@ Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
 </p>
 
 
-
+---
+![um26's GitHub Banner](https://raw.githubusercontent.com/um26/um26/main/banner.png)
+---
 
 ### 🧮 About Me 
 - 📈 Passionate about **Finance** & aspire to work in **Quantitative Finance**.  
