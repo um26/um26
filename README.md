@@ -9,7 +9,7 @@ Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
 
 
 ---
-![um26's GitHub Banner](https://raw.githubusercontent.com/um26/um26/main/banner.png)
+![um26's GitHub Banner](https://raw.githubusercontent.com/um26/um26/main/um26-readme-banner.png)
 ---
 
 ### 🧮 About Me 
@@ -52,6 +52,9 @@ Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
+![um26's GitHub Banner](https://raw.githubusercontent.com/um26/um26/main/github-wallpaper-um26-small.png)
+---
 
 
 ### 💡 What I’m Up To  
@@ -71,17 +74,6 @@ Let's connect and collaborate—whether you're into coding, finance, or just gee
 
 ---
 
-### ✨ Some Fun Animations  
-![Coding Gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-![Math GIF](https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif?cid=790b7611a8y0vt6kke4midnypylyidukt6z7fx01o5grvrw9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-
-### 🏆 Highlights
-- **Funny Formula 1 Moment**:
- ![F1 Fan Moment](https://media.giphy.com/media/TgHQOqCqf9GH6/giphy.gif?cid=790b7611oatogs5x7to4981ll7ivt46lihwri3k89mv98ec9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-- **Tech I Love to code in**: Java and Python.  
-- **Favorite Math Concept**: Game Theory & Cryptography. 🔐  
----
 
 ### 🧠 Did You Know?  
 - Java was initially called Oak.  
