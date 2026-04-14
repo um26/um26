@@ -53,7 +53,7 @@ Aspiring Quant | Math Enthusiast | Java Dev 🚀 </h1>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-![um26's GitHub Banner](https://raw.githubusercontent.com/um26/um26/main/github-wallpaper-um26-small.png)
+![um26's GitHub Banner](https://raw.githubusercontent.com/um26/um26/main/github-wallpaper-um26-desktop.png)
 ---
 
 
