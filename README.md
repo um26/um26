@@ -14,8 +14,8 @@ Figuring out my Life </h1>
 
 ### 🧮 About Me 
 - 📈 Passionate about **Finance** & aspire to work in **Quantitative Finance**.  
-- 🖥️ Currently diving deep into **Java** and **Data Structures & Algorithms**.  
-- 🎮 Love solving puzzles, optimizing algorithms, and building cool projects like **Chess Engines**.  
+- 🖥️ Currently diving deep into **AI* and **LLMs**.  
+- 🎮 Love solving puzzles, learning about AI, and building cool projects like **Chess Engines**.  
 
 ---
 
