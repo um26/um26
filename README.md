@@ -1,7 +1,7 @@
  <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" alt="Hi"> Hi, I'm Utkarsh!
 
-Figuring out Life </h1>
+Figuring out my Life </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Utkarsh+Mangal;Aspiring+Quant+%7C+Math+Enthusiast+%7C+Java+Dev" alt="Typing SVG" />
