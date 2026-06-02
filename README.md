@@ -4,7 +4,7 @@
 Figuring out my Life </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Utkarsh+Mangal;Aspiring+Quant+%7C+Math+ and + AI + Enthusiast+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Utkarsh+Mangal;Aspiring+Quant+%7C+Math+and+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 
