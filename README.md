@@ -14,8 +14,8 @@ Figuring out my Life </h1>
 
 ### 🧮 About Me 
 - 📈 Passionate about **Finance** & aspire to work in **Quantitative Finance**.  
-- 🖥️ Currently diving deep into **AI* and **LLMs**.  
-- 🎮 Love solving puzzles, learning about AI, and building cool projects like **Chess Engines**.  
+- 🖥️ Currently diving deep into **AI** and **LLMs**.  
+- 🎮 Love solving puzzles, learning about AI, and building cool projects.  
 
 ---
 
@@ -45,9 +45,6 @@ Figuring out my Life </h1>
 ### ⚙️ My Tech Toolbox  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -57,10 +54,11 @@ Figuring out my Life </h1>
 ---
 
 
+<!--![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=um26&bg_color=0D1117&color=FFFFFF&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)  
 ### 💡 What I’m Up To  
 - 📚 Exploring advanced algorithms in Java.  
 - 🧩 Organizing fun events like **math puzzles**, **cryptography challenges**, and **logic quests**.  
-- 🎓 Helping my peers and juniors excel in coding and competitive problem-solving.  
+- 🎓 Helping my peers and juniors excel in coding and competitive problem-solving.  --->
 
 ---
 
@@ -85,7 +83,7 @@ Let's connect and collaborate—whether you're into coding, finance, or just gee
 ### 🔥 Let's Collaborate!
 I’m open to collaborations on:
 - Quantitative Finance projects.  
-- Java-based algorithms and DSA practice. 
+- Any cool thing which you wanna build.
 
 Feel free to fork my repos, open issues, or share ideas. Let's build something great together! 🚀
 
